@@ -12,7 +12,7 @@ Hotel Reservations Predictor is a **machine learning model** that forecasts **ho
 
 ## 📂 Dataset
 - The dataset contains **historical booking data** including reservation details, customer behavior, and cancellation status.
-- Data Source: [Specify dataset source if available]
+- Data Set: it is available in the repository.
 
 ## 📊 Features Implemented
 - **Data Preprocessing:** Handling missing values and transforming categorical variables.
